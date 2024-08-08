@@ -1,1 +1,1 @@
-A simple wensite for practice.
+A simple website for practice.
